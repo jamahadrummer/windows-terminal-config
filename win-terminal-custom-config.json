@@ -420,24 +420,6 @@
                 "name": "Azure Cloud Shell",
                 "source": "Windows.Terminal.Azure"
             }
-			// {
-            //     "colorScheme": "BlueBerryPie",
-            //     "experimental.retroTerminalEffect": false,
-            //     "guid": "{574e775e-4f2a-5b96-ac1e-a2962a402336}",
-            //     "hidden": false,
-			// 	"elevate": true,
-            //     "name": "PowerShell 7 (Admin)",
-            //     "source": "Windows.Terminal.PowershellCore"
-            // },
-			// {
-			// 	"colorScheme": "Campbell",
-			// 	"guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}",
-            //     "hidden": false,
-			// 	"elevate": true,
-            //     "icon": "ms-appx:///ProfileIcons/{0caa0dad-35be-5f56-a8ff-afceeeaa6101}.png",
-            //     "name": "cmd",
-            //     "startingDirectory": "%USERPROFILE%"
-			// }
         ]
     },
     "schemes": 

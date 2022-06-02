@@ -353,7 +353,7 @@
 			},
 			{
 				"colorScheme": "Dracula",
-				"commandline": "\"C:\\Users\\jamah\\AppData\\Local\\Microsoft\\WindowsApps\\Microsoft.PowerShell_8wekyb3d8bbwe\\pwsh.exe\" -noprofile -noexit -command \"invoke-expression '. ''L:/OneDrive/Documents/PowerShell/clean.ps1''' \"",
+				"commandline": "\"C:\\Users\\jamah\\AppData\\Local\\Microsoft\\WindowsApps\\Microsoft.PowerShell_8wekyb3d8bbwe\\pwsh.exe\" -noprofile -noexit -command \"invoke-expression '. ''./OneDrive/Documents/PowerShell/clean.ps1''' \"",
 				"experimental.retroTerminalEffect": false,
 				"guid": "{3338aa26-5ff7-4c8c-a100-0289ba63286c}",
 				"hidden": false,

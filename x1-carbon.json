@@ -1,0 +1,221 @@
+{
+	"$schema": "https://aka.ms/winget-packages.schema.2.0.json",
+	"CreationDate": "2022-04-28T17:14:10.877-00:00",
+	"Sources": [
+		{
+			"Packages": [
+				{
+					"PackageIdentifier": "AgileBits.1Password"
+				},
+				{
+					"PackageIdentifier": "MullvadVPN.MullvadVPN"
+				},
+				{
+					"PackageIdentifier": "Plex.Plexamp"
+				},
+				{
+					"PackageIdentifier": "7zip.7zip"
+				},
+				{
+					"PackageIdentifier": "Amazon.Kindle"
+				},
+				{
+					"PackageIdentifier": "CrystalDewWorld.CrystalDiskInfo"
+				},
+				{
+					"PackageIdentifier": "Discord.Discord"
+				},
+				{
+					"PackageIdentifier": "voidtools.Everything"
+				},
+				{
+					"PackageIdentifier": "AndreWiethoff.ExactAudioCopy"
+				},
+				{
+					"PackageIdentifier": "GitHub.GitHubDesktop"
+				},
+				{
+					"PackageIdentifier": "Git.Git"
+				},
+				{
+					"PackageIdentifier": "Google.Chrome"
+				},
+				{
+					"PackageIdentifier": "REALiX.HWiNFO"
+				},
+				{
+					"PackageIdentifier": "Logitech.Options"
+				},
+				{
+					"PackageIdentifier": "Logitech.CameraSettings"
+				},
+				{
+					"PackageIdentifier": "GuinpinSoft.MakeMKV"
+				},
+				{
+					"PackageIdentifier": "Microsoft.Edge"
+				},
+				{
+					"PackageIdentifier": "Microsoft.Edge.Beta"
+				},
+				{
+					"PackageIdentifier": "Microsoft.EdgeWebView2Runtime"
+				},
+				{
+					"PackageIdentifier": "Microsoft.PowerShell"
+				},
+				{
+					"PackageIdentifier": "Microsoft.WindowsTerminal.Preview"
+				},
+				{
+					"PackageIdentifier": "Mozilla.Firefox"
+				},
+				{
+					"PackageIdentifier": "Mp3tag.Mp3tag"
+				},
+				{
+					"PackageIdentifier": "JanDeDobbeleer.OhMyPosh"
+				},
+				{
+					"PackageIdentifier": "Microsoft.OneDrive"
+				},
+				{
+					"PackageIdentifier": "Plex.Plex"
+				},
+				{
+					"PackageIdentifier": "Cockos.REAPER"
+				},
+				{
+					"PackageIdentifier": "Shure.UpdateUtility"
+				},
+				{
+					"PackageIdentifier": "Valve.Steam"
+				},
+				{
+					"PackageIdentifier": "Lenovo.SystemUpdate"
+				},
+				{
+					"PackageIdentifier": "TeamViewer.TeamViewer"
+				},
+				{
+					"PackageIdentifier": "Microsoft.Teams"
+				},
+				{
+					"PackageIdentifier": "VideoLAN.VLC"
+				},
+				{
+					"PackageIdentifier": "AntibodySoftware.WizTree"
+				},
+				{
+					"PackageIdentifier": "Balena.Etcher"
+				},
+				{
+					"PackageIdentifier": "MetaGeek.inSSIDer"
+				},
+				{
+					"PackageIdentifier": "WinSCP.WinSCP"
+				},
+				{
+					"PackageIdentifier": "Yubico.YubikeyManager"
+				},
+				{
+					"PackageIdentifier": "Microsoft.PowerToys"
+				},
+				{
+					"PackageIdentifier": "Microsoft.VC++2013Redist-x64"
+				},
+				{
+					"PackageIdentifier": "NagleCode.PacketSender"
+				},
+				{
+					"PackageIdentifier": "OpenJS.NodeJS.LTS"
+				},
+				{
+					"PackageIdentifier": "PuTTY.PuTTY"
+				},
+				{
+					"PackageIdentifier": "ElectronicArts.EADesktop"
+				},
+				{
+					"PackageIdentifier": "Poly.PlantronicsHub"
+				},
+				{
+					"PackageIdentifier": "Microsoft.VC++2015-2022Redist-x86"
+				},
+				{
+					"PackageIdentifier": "Microsoft.VC++2012Redist-x86"
+				},
+				{
+					"PackageIdentifier": "GlavSoft.TightVNC"
+				},
+				{
+					"PackageIdentifier": "Microsoft.dotnetRuntime.3-x64"
+				},
+				{
+					"PackageIdentifier": "Microsoft.WindowsPCHealthCheck"
+				},
+				{
+					"PackageIdentifier": "Google.Drive"
+				},
+				{
+					"PackageIdentifier": "Sonos.Controller"
+				},
+				{
+					"PackageIdentifier": "GOG.Galaxy"
+				},
+				{
+					"PackageIdentifier": "Microsoft.dotnetRuntime.6-x64"
+				},
+				{
+					"PackageIdentifier": "Microsoft.VisualStudioCode"
+				},
+				{
+					"PackageIdentifier": "Google.ChromeRemoteDesktop"
+				},
+				{
+					"PackageIdentifier": "Famatech.AdvancedIPScanner"
+				},
+				{
+					"PackageIdentifier": "Microsoft.VC++2015-2022Redist-x86"
+				},
+				{
+					"PackageIdentifier": "Microsoft.VC++2008Redist-x86"
+				},
+				{
+					"PackageIdentifier": "Microsoft.VC++2013Redist-x86"
+				},
+				{
+					"PackageIdentifier": "Adobe.Acrobat.Reader.32-bit"
+				},
+				{
+					"PackageIdentifier": "Microsoft.WindowsPCHealthCheck"
+				},
+				{
+					"PackageIdentifier": "Microsoft.PowerShell"
+				},
+				{
+					"PackageIdentifier": "Microsoft.XNARedist"
+				},
+				{
+					"PackageIdentifier": "Microsoft.VC++2010Redist-x86"
+				},
+				{
+					"PackageIdentifier": "Microsoft.dotnetRuntime.5-x64"
+				},
+				{
+					"PackageIdentifier": "Microsoft.VC++2012Redist-x64"
+				},
+				{
+					"PackageIdentifier": "Intel.IntelDriverAndSupportAssistant"
+				}
+			],
+			"SourceDetails": {
+				"Argument": "https://winget.azureedge.net/cache",
+				"Identifier": "Microsoft.Winget.Source_8wekyb3d8bbwe",
+				"Name": "winget",
+				"Type": "Microsoft.PreIndexed.Package"
+			}
+		}
+	],
+	"WinGetVersion": "1.2.10271"
+}

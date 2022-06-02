@@ -7,24 +7,6 @@
 	"$schema": "https://aka.ms/terminal-profiles-schema",
 	"actions": [
 		{
-			"command": "closePane",
-			"keys": "ctrl+shift+w"
-		},
-		{
-			"command": {
-				"action": "moveFocus",
-				"direction": "right"
-			},
-			"keys": "alt+right"
-		},
-		{
-			"command": {
-				"action": "switchToTab",
-				"index": 2
-			},
-			"keys": "ctrl+alt+3"
-		},
-		{
 			"command": "unbound",
 			"keys": "ctrl+minus"
 		},
@@ -34,10 +16,21 @@
 		},
 		{
 			"command": {
-				"action": "resizePane",
-				"direction": "left"
+				"action": "switchToTab",
+				"index": 2
 			},
-			"keys": "alt+shift+left"
+			"keys": "ctrl+alt+3"
+		},
+		{
+			"command": {
+				"action": "moveFocus",
+				"direction": "right"
+			},
+			"keys": "alt+right"
+		},
+		{
+			"command": "closePane",
+			"keys": "ctrl+shift+w"
 		},
 		{
 			"command": {
@@ -45,6 +38,13 @@
 				"direction": "down"
 			},
 			"keys": "alt+down"
+		},
+		{
+			"command": {
+				"action": "resizePane",
+				"direction": "left"
+			},
+			"keys": "alt+shift+left"
 		},
 		{
 			"command": "closeWindow",
@@ -361,6 +361,19 @@
 				"name": "PowerShell 7 Clean",
 				"opacity": 95,
 				"startingDirectory": "%USERPROFILE%",
+				"useAcrylic": true
+			},
+			{
+				"colorScheme": "Dracula",
+				"commandline": "\"C:\\Users\\jamah\\AppData\\Local\\Microsoft\\WindowsApps\\Microsoft.PowerShell_8wekyb3d8bbwe\\pwsh.exe\" -noprofile -noexit -command \"invoke-expression '. ''./OneDrive/Documents/PowerShell/code.ps1''' \"",
+				"cursorShape": "vintage",
+				"experimental.retroTerminalEffect": false,
+				"guid": "{058553cc-de27-49d6-81a3-76b583b5c198}",
+				"hidden": false,
+				"icon": "ms-appx:///ProfileIcons/pwsh.png",
+				"name": "PowerShell 7 (Code)",
+				"opacity": 95,
+				"startingDirectory": "C:\\Users\\jamah\\coding-projects",
 				"useAcrylic": true
 			},
 			{

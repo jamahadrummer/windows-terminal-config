@@ -1,11 +1,8 @@
-////////////////////////////
-// Last updated 2022_06_02//
-// Copy below this line   //
-////////////////////////////
 {
 	"$help": "https://aka.ms/terminal-documentation",
 	"$schema": "https://aka.ms/terminal-profiles-schema",
 	"actions": [
+		{ "command": { "action": "sendInput", "input": "git commit -m \"\"\u001b[D" }, "name": "commit..." },
 		{
 			"command": "closePane",
 			"keys": "ctrl+shift+w"
